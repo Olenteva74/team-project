@@ -2,14 +2,14 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Olenteva74.github.io/Mimino-project",
+  "homepage": "https://Olenteva74.github.io/team-project",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Mimino-project/"
+    "build": "parcel build src/*.html --public-url /team-project/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Olenteva74.github/Mimino-projectnode.git"
+    "url": "git+https://github.com/Olenteva74.github/team-projectnod.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
